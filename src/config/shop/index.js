@@ -1,23 +1,6 @@
-const prefix = "!";
 
-client.on("messageCreate", async (message) => {
-  if (message.author.bot) return;
 
-  if (!message.content.startsWith(prefix)) return;
 
-  const args = message.content.slice(prefix.length).trim().split(/ +/);
-  const command = args.shift().toLowerCase();
-
-  if (command === "ping") {
-    return message.reply("🏓 Pong!");
-  }
-
-  if (command === "help") {
-    return message.reply("📜 Commands: ping, help");
-  }
-});
-
-client.login(...)
 
 import { shopItems, getItemById, getItemsByType, getItemPrice, validatePurchase } from './items.js';
 import { botConfig } from '../bot.js';
