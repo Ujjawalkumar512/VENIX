@@ -252,7 +252,7 @@ TitanBot is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 Thank you for choosing TitanBot for your Discord server! We're constantly working to improve and add new features based on community feedback.
 
-**Made with ❤️**
+**Powered by J A C K**
 
 ---
 
