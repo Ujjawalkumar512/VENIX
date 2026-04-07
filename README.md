@@ -1,6 +1,6 @@
 # 🤖 VENIX - Ultimate Discord Bot
 
-**TitanBot** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. Built with modern Discord.js v14 and PostgreSQL for optimal performance and data persistence.
+**VENIX** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. Built with modern Discord.js v14 and PostgreSQL for optimal performance and data persistence.
 
 [![Support Server] https://discord.gg/3ea7G9c2
 [![Discord.js](https://img.shields.io/npm/v/discord.js?style=flat-square&labelColor=%23202225&color=%23202225&logo=npm&logoColor=white&logoWidth=20)](https://www.npmjs.com/package/discord.js)
@@ -210,7 +210,7 @@ TitanBot uses **PostgreSQL** as its primary database with intelligent fallback t
 - **Node-cron** - Scheduled task management
 
 ### Bot Intents
-TitanBot requires the following Discord intents:
+VENIX requires the following Discord intents:
 - Bot
 - Applications.commands
 
@@ -252,7 +252,7 @@ TitanBot is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 Thank you for choosing TitanBot for your Discord server! We're constantly working to improve and add new features based on community feedback.
 
-**Powered by J A C K**
+**Powered by dev**
 
 ---
 
