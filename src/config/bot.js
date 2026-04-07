@@ -25,9 +25,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | VENIX").
-        name: "Faster Then Light",
-        // Activity type number (0 = Playing).
-        type: 0, 
+        name: "Venix Faster Than Light ⚡",
+        // Activity type number (3 = Watching).
+        type: 3, 
       },
     ],
   },
